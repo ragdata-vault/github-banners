@@ -1,0 +1,30 @@
+# See: https://citation-file-format.github.io/
+
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+
+title: Ragdata's GitHub Banners
+
+message: >-
+  If you use this software, please cite using the
+  information provided here
+
+type: software
+
+authors:
+  - given-names: Darren
+    family-names: Poulton
+    email: ragdata@ragdata.dev
+    orcid: 'https://orcid.org/0000-0001-8986-2886'
+    affiliation: Redeyed Software
+
+repository-code: 'https://github.com/ragdata/github-banners'
+
+url: 'https://ragdata.github.io/github-banners'
+
+abstract: >-
+  Ragdata's GitHub Banners is a tutorial repository which shows you how to create custom banners for your GitHub repositories using HTML, CSS, MD & SVG
+
+license: MIT
