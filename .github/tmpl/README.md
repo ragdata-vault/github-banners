@@ -1,2 +1,0 @@
-<!--{{ HEADER::BEGIN }}-->
-<!--{{ HEADER::END }}-->
