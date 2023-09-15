@@ -19,7 +19,6 @@
 <em>Custom Banners Made With HTML, CSS, & SVG</em>
 </h3>
 <!--{{ SUB-TITLE::END }}-->
-
 <!--{{ TOP-LINKS::BEGIN }}-->
 <h3 align="center">
 <a href="https://github.com/ragdata/github-banners/issues" target="_blank">Issues</a>
@@ -44,27 +43,25 @@
 </div>
 <!--{{ HEADER::END }}-->
 <!--{{ TOP-STAR::BEGIN }}-->
-<h3 align="center">
+<h4 align="center">
 
 If you like this repository, please give it a ⭐ (it really does help)
 
 <img alt="GitHub repository stars" src="https://img.shields.io/github/stars/ragdata/github-banners?style=social">
 
-</h3>
+</h4>
 <!--{{ TOP-STAR::END }}-->
 <!--{{ TOC::BEGIN }}-->
 
 ## 📖 Table of Contents
 
 - [Project Overview](#-project-overview)
-  - [Branch Reliability](#branch-reliability) 
-- [What's Included?](#-whats-included)
-- [Installation](#-installation)
-- [Badges](#-badges)
+  - [What's Included?](#-whats-included)
+  - [Installation](#-installation)
 - [Available Support](#-available-support)
+- [Security](#-security)
 - [Project Supporters](#-project-supporters)
 - [Author/Maintainer](#-author--maintainer)
-- [Security](#-security)
 - [Contributors](#-contributors)
 - [Copyright & Attributions](#-copyright--attributions)
 - [License](#-license)
@@ -76,65 +73,52 @@ If you like this repository, please give it a ⭐ (it really does help)
 ## ⭐ [Project Overview](#toc)
 
 
-
-### [Branch Reliability](#toc)
-
-The Branch Reliability Table is a way for you to determine how close to the bleeding edge you're comfortable getting.
-
-If you need stability, then download a branch marked with 🟢
-
-If you're contributing code to the project, you'll want 🔴
-
-| Branch               |    Stability    | Code Age         | Reliability |
-|----------------------|:---------------:|------------------|:-----------:|
-| `master`             |  latest stable  | latest release   |     🟢      |
-| `develop`            | latest unstable | most recent code |     🔴      |
-
-[`^ Top`](#toc)
-
-<!--{{ OVERVIEW::END }}-->
 <!--{{ INCLUSIONS::BEGIN }}-->
 
-## ❓ [What's Included?](#toc)
+### ❓ [What's Included?](#toc)
 
 
-
-[`^ Top`](#toc)
 
 <!--{{ INCLUSIONS::END }}-->
 <!--{{ INSTALL::BEGIN }}-->
 
-## 📂 [Installation](#toc)
+### 📂 [Installation](#toc)
 
 
-
-[`^ Top`](#toc)
 
 <!--{{ INSTALL::END }}-->
-<!--{{ BADGES::BEGIN }}-->
 
-## 📛 [Badges](#toc)
+[//]: # (<!--{{ BADGES::BEGIN }}-->)
 
+[//]: # ()
+[//]: # (### 📛 [Badges]&#40;#toc&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (<!--{{ BADGES::END }}-->)
 
 
 [`^ Top`](#toc)
 
-<!--{{ BADGES::END }}-->
+<!--{{ OVERVIEW::END }}-->
 <!--{{ SUPPORT::BEGIN }}-->
 
 ## 💪 [Available Support](#toc)
 
-### Project Resources
+### 🔸Project Resources
 
+- [**Repository Documentation**](doc/README.md)
 - [Issues Register](https://github.com/ragdata/github-banners/issues)
 - [Project Site](https://ragdata.github.io/github-banners)
 
-### Community Resources
+### 🔸Community Resources
 
 - [**The RedEyed Community Discord Server**](https://discord.gg/s6gZZUc67y)
 
-- [Community Governance Policy](https://github.com/ragdata/.github/blob/master/.github/GOVERNANCE.md)
+
 - [Community Support Document](https://github.com/ragdata/.github/blob/master/.github/SUPPORT.md)
+- [Community Governance Policy](https://github.com/ragdata/.github/blob/master/.github/GOVERNANCE.md)
 - [Community Code of Conduct](https://github.com/ragdata/.github/blob/master/.github/CODE_OF_CONDUCT.md)
 - [Community Standards](https://github.com/ragdata/github-banners/community)
 - [Security Policy](https://github.com/ragdata/github-banners/security/policy)
@@ -145,6 +129,17 @@ If you're contributing code to the project, you'll want 🔴
 [`^ Top`](#toc)
 
 <!--{{ SUPPORT::END }}-->
+<!--{{ SECURITY::BEGIN }}-->
+
+## 🔐 [Security](#toc)
+
+While I always follow good security practices, 100% security can never be guaranteed in any software package.  `Ragdata's GitHub Banners` is provided AS IS, and without warranty.  You can find more details in the [LICENSE](LICENSE) file included with this repository.
+
+If you discover any issue regarding the security of this project, please disclose that information responsibly by sending a [security advisory][advisory].  **PLEASE DO NOT CREATE AN ISSUE OR DISCUSSION TOPIC.**  You can read more about this project's security policies [HERE][security]
+
+[`^ Top`](#toc)
+
+<!--{{ SECURITY::END }}-->
 <!--{{ SUPPORTERS::BEGIN }}-->
 
 ## ❤️ [Project Supporters](#toc)
@@ -198,46 +193,23 @@ If you're contributing code to the project, you'll want 🔴
 [`^ Top`](#toc)
 
 <!--{{ AUTHOR::END }}-->
-<!--{{ SECURITY::BEGIN }}-->
-
-## 🔐 [Security](#toc)
-
-While I always good security practices, 100% security can never be guaranteed in any software package.  The `Ragdata's GitHub Banners` is provided AS IS, and without warranty.  You can find more details in the [LICENSE](LICENSE) file included with this repository.
-
-If you discover any issue regarding the security of this project, please disclose that information responsibly by sending a [security advisory][advisory].  **PLEASE DO NOT CREATE AN ISSUE OR DISCUSSION TOPIC.**  You can read more about this project's security policies [HERE][security]
-
-[`^ Top`](#toc)
-
-<!--{{ SECURITY::END }}-->
 <!--{{ CONTRIBUTORS::BEGIN }}-->
 
 ## 💎 [Contributors](#toc)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/github/all-contributors/ragdata/github-banners?color=ee8449&style=for-the-badge)](CONTRIBUTORS.md)
+[![All Contributors](https://img.shields.io/github/all-contributors/ragdata/github-banners?color=ee8449&style=for-the-badge)](.github/CONTRIBUTORS.md)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-If you'd like to make a contribution, then please see the [**Bash Bits Contributor's Guide**][contributing]
+If you'd like to make a contribution, then please see the [**GitHub Banners Contributor's Guide**][contributing]
 
 It's not just contributions of code that I'm looking for.  If you have any ideas or suggestions about how this project may be improved, don't hesitate to [open an issue][issues] and let me know!  Contributions of ALL kinds will be recognised here if they are made part of this project - thanks to the [All-Contributors][all-contributors] bot.
 
-[**VIEW PROJECT CONTRIBUTORS**](CONTRIBUTORS.md)
+[**VIEW PROJECT CONTRIBUTORS**](.github/CONTRIBUTORS.md)
 
 [`^ Top`](#toc)
 
 <!--{{ CONTRIBUTORS::END }}-->
-<!--{{ COPYRIGHT::BEGIN }}-->
-
-## ©️ [Copyright & Attributions](#toc)
-
-This project incorporates ideas and / or code crafted by the following talented individuals:
-
-
-> "We see much further, and reach much higher,<br>only because we stand upon the shoulders of giants"
-
-[`^ Top`](#toc)
-
-<!--{{ COPYRIGHT::END }}-->
 <!--{{ LICENSE::BEGIN }}-->
 
 ## ⚖️ [License](#toc)
@@ -255,15 +227,19 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [`^ Top`](#toc)
 
 <!--{{ LICENSE::END }}-->
-<!--{{ RESOURCES::BEGIN }}-->
 
-## 📖 [Resources](#toc)
+[//]: # (<!--{{ RESOURCES::BEGIN }}-->)
 
+[//]: # ()
+[//]: # (## 📖 [Resources]&#40;#toc&#41;)
 
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # ([`^ Top`]&#40;#toc&#41;)
 
-[`^ Top`](#toc)
-
-<!--{{ RESOURCES::END }}-->
+[//]: # ()
+[//]: # (<!--{{ RESOURCES::END }}-->)
 <!--{{ BOT-STAR::BEGIN }}-->
 <h3 align="center">
 
